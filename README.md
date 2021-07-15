@@ -1,1 +1,1 @@
-# Data Analysis with Pandas (Video Game Sales)
+# Data Analysis with Pandas - Video Game Sales
