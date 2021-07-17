@@ -7,7 +7,7 @@
   - Video Game Sales - Sales data from more than 16,500 games
   - Cycle Share Data set - Bicycle Trip Data from Seattle’s Cycle Share System
 
-- In the vg-stats notebook answer the following questions/do the following tasks. Note that the numbers quoted for sales are in the millions, and apply only for those games with over 10,000 sales.:
+- In the vg-stats notebook answer the following questions. Note that the numbers quoted for sales are in the millions, and apply only for those games with over 10,000 sales
   1. Which company is the most common video game publisher?
   1. What’s the most common platform?
   1. What about the most common genre?
